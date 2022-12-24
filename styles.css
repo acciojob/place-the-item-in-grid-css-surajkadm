@@ -3,24 +3,16 @@
     grid-template-columns: repeat(2,200px);
 }
 
-.element{
-    
-    width: 500px;
-}
 .element-1{
-    font-size: 200px;
     background-color: red;
 }
 .element-2{
-    font-size: 200px;
     background-color: red;
 }
 .element-3{
-    font-size: 200px;
     background-color: red;
 }
 .element-4{
-    font-size: 200px;
     background-color: red;
 }
 
